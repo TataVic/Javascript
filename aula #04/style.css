@@ -1,0 +1,10 @@
+body{
+    background-color: #eb5b5b;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.titulo h1{
+    justify-content: center;
+    align-content: center;
+    font-weight: bold;
+}
