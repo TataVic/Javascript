@@ -1,10 +1,16 @@
-body{
-    background-color: #eb5b5b;
+:root{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 15px;
 }
-.titulo h1{
+body{
+    background-color: rgb(247, 221, 190);
+}
+body .titulo{
+    background-color: #eb5b5b;
+    font-size: 15px;
+    display: flex;
     justify-content: center;
     align-content: center;
+}
+.titulo h1{
     font-weight: bold;
 }
