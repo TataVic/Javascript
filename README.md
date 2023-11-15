@@ -8,6 +8,8 @@ Documentações extras:
 - https://www.w3schools.com/js/
 ---
 * Cliente x Servidor : WebSite
+
+
             * HTML: linguagem de marcação (Conteúdo)
             * CSS: linguagem de estilização (Estilo)
             * JS: linguagem de programação (Interação)
